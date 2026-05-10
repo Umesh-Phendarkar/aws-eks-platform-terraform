@@ -1,3 +1,2 @@
-# aws-eks-platform-using-terraform
-Above is the Repo Structure we have to follow:-
+Enterprise GenAI Platform on AWS EKS with Terraform
 
